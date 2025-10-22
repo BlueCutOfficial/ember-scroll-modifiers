@@ -10,7 +10,7 @@ We adhere to the [Ember Community Guidelines](https://emberjs.com/guidelines/) f
 
 ## Compatibility
 
-* Ember.js v4.4 or above
+* Ember.js v4.4? or above
 * Ember CLI v4.4 or above
 * Node.js v18 or above
 * [All N-1 Browsers](https://caniuse.com/#feat=intersectionobserver)
